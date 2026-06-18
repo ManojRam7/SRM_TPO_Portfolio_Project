@@ -1,0 +1,5 @@
+check,value,passed
+row_count,10920,True
+duplicate_keys,0,True
+critical_nulls,0,True
+non_positive_units_price,0,True

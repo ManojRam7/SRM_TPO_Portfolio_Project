@@ -1,0 +1,10 @@
+check,value,passed
+models_fitted,70.0,True
+price_sign_valid_pct,100.0,True
+median_r2,0.989,True
+median_test_mape_pct,5.06,True
+mean_abs_elasticity_error,0.026,True
+elasticity_within_15pct,14.0,True
+baseline_share_reasonable,0.729,True
+decomp_reconciles_to_pred,0.04,True
+promo_roi_computed,14.0,True
